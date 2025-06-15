@@ -1,4 +1,5 @@
 Fashion E-Commerce Website - Responsive Design
+
 🛍️ Project Overview
 This is a fully responsive fashion e-commerce website built with modern HTML5, CSS3, and JavaScript. The design features a clean, minimalist aesthetic with smooth animations and transitions, optimized for both mobile and desktop viewing experiences.
 
@@ -73,8 +74,9 @@ fashion-ecommerce/
 │   └── logo.webp
 🚀 How to Use
 Clone the repository
-
+git clone https://github.com/HassanAhmedKhan31/Fashion-E-Commerce-Website.git
 Open index.html in your browser
+Explore the responsive design by resizing your browser window
 
 Resize the browser to see responsive behavior
 
