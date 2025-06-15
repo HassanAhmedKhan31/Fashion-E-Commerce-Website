@@ -81,9 +81,13 @@ fashion-ecommerce/
 │   └── logo.webp
 
 🚀 How to Use
+
 Clone the repository
+
 git clone https://github.com/HassanAhmedKhan31/Fashion-E-Commerce-Website.git
+
 Open index.html in your browser
+
 Explore the responsive design by resizing your browser window
 
 Resize the browser to see responsive behavior
