@@ -65,13 +65,21 @@ Desktop (768px+)
 📁 File Structure
 text
 fashion-ecommerce/
+
 ├── index.html          # Main HTML file
+
 ├── style.css           # Complete responsive styles
+
 ├── app.js              # Interactive functionality
+
 ├── assets/             # Image resources
+
 │   ├── products/
+
 │   ├── collections/
+
 │   └── logo.webp
+
 🚀 How to Use
 Clone the repository
 git clone https://github.com/HassanAhmedKhan31/Fashion-E-Commerce-Website.git
